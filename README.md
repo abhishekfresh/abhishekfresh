@@ -13,7 +13,6 @@
 
 
 ### Contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-lightgrey?style=for-the-badge&logo=telegram)](https://t.me/SurikovDA)
-[![VK](https://img.shields.io/badge/-ВКонтакте-lightgrey?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/surikovda)
+[![Telegram](https://img.shields.io/badge/-Telegram-lightgrey?style=for-the-badge&logo=telegram)](https://t.me/abhi_ss35)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurikovDA&show_icons=true&hide=stars)

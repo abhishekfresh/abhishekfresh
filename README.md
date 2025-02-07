@@ -14,8 +14,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-lightgrey?style=for-the-badge&logo=Flask&logoColor=black)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=for-the-badge&logo=JavaScript&logoColor=yellow)  
 ![React.js](https://img.shields.io/badge/-React.js-lightgrey?style=for-the-badge&logo=React&logoColor=blue)  
-![Node.js](https://img.shields.io/badge/-Node.js-lightgrey?style=for-the-badge&logo=Node.js&logoColor=green)  
-
+![Node.js](https://img.shields.io/badge/-Node.js-lightgrey?style=for-the-badge&logo=Node.js&logoColor=green) 
 <br><br>
 
 

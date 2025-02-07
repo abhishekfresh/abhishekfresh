@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋  
 
 ### I'm a Software Developer 👨‍💻  
+
 ![Java](https://img.shields.io/badge/-Java_11-lightgrey?style=for-the-badge&logo=oracle&logoColor=red)  
 ![Cи](https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=C&logoColor=6296CC)  
 ![Spring Framework](https://img.shields.io/badge/-Spring-lightgrey?style=for-the-badge&logo=Spring&logoColor=green)  
@@ -15,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=for-the-badge&logo=JavaScript&logoColor=yellow)  
 ![React.js](https://img.shields.io/badge/-React.js-lightgrey?style=for-the-badge&logo=React&logoColor=blue)  
 ![Node.js](https://img.shields.io/badge/-Node.js-lightgrey?style=for-the-badge&logo=Node.js&logoColor=green)  
-<br><br>
+
   
 
 
